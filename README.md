@@ -6,7 +6,7 @@ Generate [Amharic](https://en.wikipedia.org/wiki/Amharic) word clouds using pyth
 
 based on:</br>
 [tika](https://github.com/chrismattmann/tika-python) - to extract text from PDFs </br>
-[Selenium](https://github.com/SeleniumHQ/selenium) and [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - to scrap comments YouTube </br>
+[Selenium](https://github.com/SeleniumHQ/selenium) and [webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - to scrap comments from YouTube </br>
 [wordcloud](https://github.com/amueller/word_cloud) - to generate the word cloud
 
 Example:
