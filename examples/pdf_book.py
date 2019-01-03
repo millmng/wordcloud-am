@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 plt.figure(figsize=(15,10))
 
-#book can be from dounloadded path or from url
+#book can be from downloaded  path or from url
 book_url = 'http://www.alemayehu.org/wp-content/uploads/2016/09/Web-%E1%8B%A8%E1%8C%88%E1%89%A0%E1%89%B3-%E1%8B%88%E1%8C%8E%E1%89%BD.pdf'
 
 text = pp.parse_pdf(book_url)
